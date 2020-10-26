@@ -1,6 +1,6 @@
 # Phaser 3 API Documentation
 
-You can either:
+You can either do:
 
 1. Go to https://photonstorm.github.io/phaser3-docs/index.html to read the docs online. Use the drop-down menus at the top to navigate the name spaces, classes and Game Objects lists.
 
